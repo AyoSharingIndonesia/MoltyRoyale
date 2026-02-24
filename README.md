@@ -100,6 +100,16 @@ You do not need to manually copy anything — the script handles this for you.
 - Each agent runs with different gameplay logic.
 
 ---
+# Support / Creator
+
+If this project helps you, you can support the channel here:
+
+Subscribe on YouTube  
+https://youtube.com/@ayosharingindonesia
+
+I share tutorials about automation, AI agents, and experimental tools.
+
+---
 
 # Disclaimer
 
